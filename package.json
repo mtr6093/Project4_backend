@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mtr6093/Project4_backend#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "method-override": "^3.0.0",
     "pg": "^8.5.1",
     "sequelize": "^6.5.0",
     "sequelize-cli": "^6.2.0"
