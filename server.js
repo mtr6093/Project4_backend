@@ -14,4 +14,6 @@ app.use("/api/equipment", require("./controllers/equipmentController.js"));
 
 
 
-    
+app.listen(process.env.PORT, () => {
+    console.log('I am listening');
+})
